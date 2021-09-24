@@ -22,7 +22,7 @@
 - :computer: I'm a Flutter Front-End Developer!
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning everything I'm able to in Flutter and adveturing myself in C.
-- 👨‍💻   Desenvolvedor Jr. Flutter na **Ravex**.
+- 👨‍💻   Flutter Jr. Developer in **Ravex**.
 
 ## Contact :iphone:
 
