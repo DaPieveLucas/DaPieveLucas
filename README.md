@@ -21,8 +21,8 @@
 
 - :computer: I'm a Flutter Front-End Developer!
 - :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning everything I'm able to in Flutter and adveturing myself in C.
-- 👨‍💻   Flutter Jr. Developer in **Ravex**.
+- :books: I’m currently learning everything I'm able to in Flutter and adveturing myself in ReactJS.
+- 👨‍💻   Flutter Full Developer in **PremierSoft**.
 
 ## Contact :iphone:
 
