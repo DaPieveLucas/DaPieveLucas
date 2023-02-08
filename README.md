@@ -22,7 +22,7 @@
 - :computer: I'm a Mobile Engineer!
 - :house_with_garden: I’m from Brazil.
 - :books: I’m currently learning everything I'm able to in Flutter and adveturing myself in Swift and Kotlin.
-- 👨‍💻   Flutter Full Developer in **PremierSoft**.
+- 👨‍💻   Flutter Developer 
 
 ## Contact :iphone:
 
